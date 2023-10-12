@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852373757655",
+    "project_id": "deal-done-5d490",
+    "storage_bucket": "deal-done-5d490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852373757655:android:93145ad03d54ebe6849a92",
+        "android_client_info": {
+          "package_name": "com.example.deal_done"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMJo6kNuILjsKlZ63s-MM0c1CtIGe9DAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
